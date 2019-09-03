@@ -14,3 +14,7 @@ spring:
     port: 5672
     username: guest
     password: guest
+  #配置redis
+  redis:
+    host: locolhost
+    port: 6379
